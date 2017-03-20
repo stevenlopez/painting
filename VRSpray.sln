@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRSpray", "Assembly-CSharp.csproj", "{6084A680-966E-59A6-EA8E-EF6A23FDF351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRSpray", "Assembly-CSharp-Editor.csproj", "{37466CBB-F2F0-9A58-5EDB-23DBC6594C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6084A680-966E-59A6-EA8E-EF6A23FDF351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6084A680-966E-59A6-EA8E-EF6A23FDF351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6084A680-966E-59A6-EA8E-EF6A23FDF351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6084A680-966E-59A6-EA8E-EF6A23FDF351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37466CBB-F2F0-9A58-5EDB-23DBC6594C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37466CBB-F2F0-9A58-5EDB-23DBC6594C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37466CBB-F2F0-9A58-5EDB-23DBC6594C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37466CBB-F2F0-9A58-5EDB-23DBC6594C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
